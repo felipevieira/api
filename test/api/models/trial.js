@@ -30,6 +30,7 @@ describe('Trial', () => {
       'documents.file',
       'documents.source',
       'risks_of_bias',
+      'risks_of_bias.source',
       'risks_of_bias.risk_of_bias_criteria',
     ]);
   });
